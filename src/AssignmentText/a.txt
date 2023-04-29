@@ -1,0 +1,37 @@
+What is React?
+What is a library?
+What is a single page application?
+What is a component ?
+What is the latest version of React?
+What is DOM?
+What is React Virtual DOM?
+What does a web application or a website(composed of) have?
+
+
+
+ans1:-
+React is a JavaScript library. it is developed and maintained by facebook. React is a single page application means it has only one .hmtl file. We use react beacuse of its reusiblity we can reuse the components of react again again.
+
+ans2:-
+library is an extenion of anything. In this case React is a library of react. In library it is differnet from framework beacuse it is light weight beacuse we have power to use only those packages which are needed.
+
+ans3:-
+Single page application are those application which generally have single html file. React is aslo a single page application as it has one html file and components are added to it using reactDOM manupilation.
+
+ans4:-
+component in react are diiferent JS/JSX pages which we attch them to our single html file. components are very useful as we can reuse them.
+
+ans5:-
+latest verion of react is :- 18.2.0
+
+ans6:-
+DOM stand for document object model. It help us to show the struture of web page in form of tree. with thye help of DOM we can manupilate the web page i.e. add, delete , upadte new elements in web page.
+
+ans7:-
+react  virtual DOM is an abstraction of HTML DOM. its cannot change the whole DOM. Anychange in node will change only that particullar node instaed of whole DOM.\
+
+ans8:-
+Web page composed of mainly three things HTML(skeleton), CSS(Styling), JavaScript(Brain) we have library like react but it is based on JavaScript only. them we have backend in which we have nodejs, mongodb etc.
+
+
+
